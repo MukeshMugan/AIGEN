@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIGEN - AI Content Generator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <style>
+        .fade-in { animation: fadeIn 0.5s ease-in; }
+        .slide-in { animation: slideInRight 0.5s ease-out; }
+        .shake { animation: shake 0.5s ease-in-out; }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        @keyframes slideInRight {
+            from { transform: translateX(100%); }
+            to { transform: translateX(0); }
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(5, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-bold text-blue-600 mb-2">AIGEN</h1>
+            <p class="text-gray-600">AI-Powered Content Generation Platform</p>
+        </header>
+
+        <div class="grid md:grid-cols-2 gap-8">
+            <!-- Input Section -->
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-2xl font-semibold mb-4">Input Configuration</h2>
+                
+                <!-- AI Model Selection -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">AI Model</label>
+                    <select id="modelSelect" class="w-full border rounded-lg p-2">
+                        <option value="gemini">Google Gemini</option>
+                        <option value="openai">OpenAI GPT-4</option>
+                    </select>
+                </div>
+
+                <!-- Generation Mode -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Generation Mode</label>
+                    <select id="modeSelect" class="w-full border rounded-lg p-2">
+                        <option value="standard">Standard Generation</option>
+                        <option value="strict_style">Strict Style Matching</option>
+                        <option value="meta_prompt">Meta Prompt Generation</option>
+                    </select>
+                </div>
+
+                <!-- File Upload -->
+                <div id="fileUploadSection" class="mb-6 hidden">
+                    <label class="block text-gray-700 mb-2">Upload Reference File</label>
+                    <div class="border-2 border-dashed border-gray-300 rounded-lg p-4 text-center">
+                        <input type="file" id="fileInput" class="hidden" accept=".txt,.pdf,.docx">
+                        <label for="fileInput" class="cursor-pointer text-blue-500 hover:text-blue-600">
+                            Click to upload or drag and drop
+                        </label>
+                        <p class="text-sm text-gray-500 mt-1">Supported: .txt, .pdf, .docx (max 16MB)</p>
+                    </div>
+                    <div id="uploadProgress" class="mt-2 hidden">
+                        <div class="h-2 bg-blue-200 rounded-full">
+                            <div class="h-2 bg-blue-600 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic/Idea Input -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Topic/Idea</label>
+                    <input type="text" id="topicInput" class="w-full border rounded-lg p-2" 
+                           placeholder="Enter your content topic or idea...">
+                </div>
+
+                <!-- Platform Selection -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Platform</label>
+                    <select id="platformSelect" class="w-full border rounded-lg p-2">
+                        <option value="linkedin">LinkedIn</option>
+                        <option value="twitter">Twitter</option>
+                        <option value="instagram">Instagram</option>
+                    </select>
+                </div>
+
+                <!-- Optimization Options -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Optimization Options</label>
+                    <div class="space-y-2">
+                        <label class="flex items-center">
+                            <input type="checkbox" id="optimizeEngagement" class="mr-2">
+                            Optimize for engagement
+                        </label>
+                        <label class="flex items-center">
+                            <input type="checkbox" id="includeAnalysis" class="mr-2">
+                            Include engagement analysis
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Media Options -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Media Type</label>
+                    <select id="mediaTypeSelect" class="w-full border rounded-lg p-2">
+                        <option value="none">No Media</option>
+                        <option value="image">Image</option>
+                        <option value="video">Video</option>
+                    </select>
+                </div>
+
+                <!-- Additional Preferences -->
+                <div class="mb-6">
+                    <label class="block text-gray-700 mb-2">Additional Preferences</label>
+                    <textarea id="preferencesInput" class="w-full border rounded-lg p-2 h-24" 
+                        placeholder="Enter any specific requirements, tone preferences, or constraints..."></textarea>
+                </div>
+
+                <button id="generateBtn" class="w-full bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors">
+                    Generate Content
+                </button>
+            </div>
+
+            <!-- Output Section -->
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-2xl font-semibold mb-4">Generated Output</h2>
+                
+                <!-- Loading State -->
+                <div id="loadingState" class="hidden">
+                    <div class="flex items-center justify-center p-8">
+                        <div class="text-blue-600 text-lg loading">Generating</div>
+                    </div>
+                </div>
+
+                <!-- Style Analysis -->
+                <div id="styleAnalysis" class="mb-6 hidden">
+                    <h3 class="font-semibold text-gray-700 mb-2">Style Analysis</h3>
+                    <div class="bg-gray-50 p-4 rounded-lg"></div>
+                </div>
+
+                <!-- Meta Prompt -->
+                <div id="metaPrompt" class="mb-6 hidden">
+                    <h3 class="font-semibold text-gray-700 mb-2">Generated Meta Prompt</h3>
+                    <div class="bg-gray-50 p-4 rounded-lg"></div>
+                </div>
+
+                <!-- Generated Content -->
+                <div id="generatedContent" class="mb-6 hidden">
+                    <h3 class="font-semibold text-gray-700 mb-2">Generated Content</h3>
+                    <div class="bg-gray-50 p-4 rounded-lg"></div>
+                    <div class="mt-2 flex justify-end">
+                        <button onclick="copyToClipboard('generatedContent')" 
+                                class="text-sm text-blue-600 hover:text-blue-800">
+                            Copy to clipboard
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Engagement Analysis -->
+                <div id="engagementAnalysis" class="mb-6 hidden">
+                    <h3 class="font-semibold text-gray-700 mb-2">Engagement Analysis</h3>
+                    <div class="bg-gray-50 p-4 rounded-lg"></div>
+                </div>
+
+                <!-- Media Output -->
+                <div id="mediaOutput" class="mb-6 hidden">
+                    <h3 class="font-semibold text-gray-700 mb-2">Generated Media</h3>
+                    <div class="bg-gray-50 p-4 rounded-lg">
+                        <img id="generatedImage" class="w-full rounded-lg hidden" alt="Generated image">
+                        <video id="generatedVideo" class="w-full rounded-lg hidden" controls>
+                            <source src="" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
+
+                <!-- Error Messages -->
+                <div id="errorMessage" class="hidden">
+                    <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative">
+                        <span id="errorText"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Utility Functions
+        function showError(message) {
+            const errorDiv = document.getElementById('errorMessage');
+            const errorText = document.getElementById('errorText');
+            errorText.textContent = message;
+            errorDiv.classList.remove('hidden');
+            errorDiv.classList.add('shake');
+            setTimeout(() => errorDiv.classList.remove('shake'), 500);
+        }
+
+        function showLoading(show) {
+            const loadingState = document.getElementById('loadingState');
+            if (show) {
+                loadingState.classList.remove('hidden');
+            } else {
+                loadingState.classList.add('hidden');
+            }
+        }
+
+        async function copyToClipboard(elementId) {
+            const content = document.querySelector(`#${elementId} div`).textContent;
+            try {
+                await navigator.clipboard.writeText(content);
+                // Show success indicator
+                const button = document.querySelector(`#${elementId} button`);
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => button.textContent = originalText, 2000);
+            } catch (err) {
+                showError('Failed to copy to clipboard');
+            }
+        }
+
+        // Event Handlers
+        document.getElementById('modeSelect').addEventListener('change', function() {
+            const mode = this.value;
+            const fileSection = document.getElementById('fileUploadSection');
+            
+            fileSection.classList.toggle('hidden', mode !== 'strict_style');
+            
+            // Reset file input when hiding the section
+            if (mode !== 'strict_style') {
+                document.getElementById('fileInput').value = '';
+                document.getElementById('styleAnalysis').classList.add('hidden');
+            }
+        });
+
+        // File Upload Handler
+        document.getElementById('fileInput').addEventListener('change', async function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const formData = new FormData();
+            formData.append('file', file);
+            formData.append('model', document.getElementById('modelSelect').value);
+
+            try {
+                showLoading(true);
+                const response = await fetch('/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) throw new Error('Upload failed');
+                
+                const data = await response.json();
+                
+                if (data.style_analysis) {
+                    const analysisDiv = document.getElementById('styleAnalysis');
+                    analysisDiv.querySelector('div').textContent = data.style_analysis;
+                    analysisDiv.classList.remove('hidden');
+                    analysisDiv.classList.add('fade-in');
+                }
+            } catch (error) {
+                showError('Error uploading file: ' + error.message);
+            } finally {
+                showLoading(false);
+            }
+        });
+
+        // Content Generation Handler
+        document.getElementById('generateBtn').addEventListener('click', async function() {
+            const payload = {
+                model: document.getElementById('modelSelect').value,
+                mode: document.getElementById('modeSelect').value,
+                topic: document.getElementById('topicInput').value,
+                platform: document.getElementById('platformSelect').value,
+                media_type: document.getElementById('mediaTypeSelect').value,
+                optimize_engagement: document.getElementById('optimizeEngagement').checked,
+                preferences: document.getElementById('preferencesInput').value,
+                style_text: document.querySelector('#styleAnalysis div')?.textContent || ''
+            };
+
+            try {
+                showLoading(true);
+                
+                // Clear previous outputs
+                document.getElementById('errorMessage').classList.add('hidden');
+                document.getElementById('metaPrompt').classList.add('hidden');
+                document.getElementById('generatedContent').classList.add('hidden');
+                document.getElementById('engagementAnalysis').classList.add('hidden');
+                document.getElementById('mediaOutput').classList.add('hidden');
+
+                let endpoint = '/generate';
+                if (payload.mode === 'meta_prompt') {
+                    endpoint = '/meta-prompt';
+                    payload.idea = payload.topic;
+                }
+
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+
+                if (!response.ok) throw new Error('Generation failed');
+                
+                const data = await response.json();
+
+                // Handle meta prompt output
+                if (data.meta_prompt) {
+                    const metaPromptDiv = document.getElementById('metaPrompt');
+                    metaPromptDiv.querySelector('div').textContent = data.meta_prompt;
+                    metaPromptDiv.classList.remove('hidden');
+                    metaPromptDiv.classList.add('slide-in');
+                }
+
+                // Handle generated content
+                if (data.content || data.generated_content) {
+                    const contentDiv = document.getElementById('generatedContent');
+                    contentDiv.querySelector('div').textContent = data.content || data.generated_content;
+                    contentDiv.classList.remove('hidden');
+                    contentDiv.classList.add('slide-in');
+                }
+
+                // Handle media output
+                if (data.media_url) {
+                    const mediaOutput = document.getElementById('mediaOutput');
+                    const image = document.getElementById('generatedImage');
+                    const video = document.getElementById('generatedVideo');
+
+                    mediaOutput.classList.remove('hidden');
+                    
+                    if (payload.media_type === 'image') {
+                        image.src = data.media_url;
+                        image.classList.remove('hidden');
+                        video.classList.add('hidden');
+                    } else if (payload.media_type === 'video') {
+                        video.querySelector('source').src = data.media_url;
+                        video.load();
+                        video.classList.
+                        video.classList.remove('hidden');
+                        image.classList.add('hidden');
+                    }
+                    mediaOutput.classList.add('fade-in');
+                }
+
+                // Handle engagement analysis if requested
+                if (document.getElementById('includeAnalysis').checked) {
+                    const content = data.content || data.generated_content;
+                    if (content) {
+                        const analysisResponse = await fetch('/analyze-engagement', {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({
+                                content: content,
+                                platform: payload.platform,
+                                model: payload.model
+                            })
+                        });
+
+                        if (analysisResponse.ok) {
+                            const analysisData = await analysisResponse.json();
+                            if (analysisData.engagement_analysis) {
+                                const analysisDiv = document.getElementById('engagementAnalysis');
+                                analysisDiv.querySelector('div').textContent = analysisData.engagement_analysis;
+                                analysisDiv.classList.remove('hidden');
+                                analysisDiv.classList.add('fade-in');
+                            }
+                        }
+                    }
+                }
+
+                // If optimization was requested, make an additional call
+                if (payload.optimize_engagement && (data.content || data.generated_content)) {
+                    const optimizeResponse = await fetch('/optimize-engagement', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            content: data.content || data.generated_content,
+                            platform: payload.platform,
+                            model: payload.model
+                        })
+                    });
+
+                    if (optimizeResponse.ok) {
+                        const optimizedData = await optimizeResponse.json();
+                        if (optimizedData.optimized_content) {
+                            const contentDiv = document.getElementById('generatedContent');
+                            contentDiv.querySelector('div').textContent = optimizedData.optimized_content;
+                            contentDiv.classList.add('fade-in');
+                        }
+                    }
+                }
+
+            } catch (error) {
+                showError('Error generating content: ' + error.message);
+            } finally {
+                showLoading(false);
+            }
+        });
+
+        // Drag and Drop Handling
+        const dropZone = document.querySelector('.border-dashed');
+        
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, preventDefaults, false);
+        });
+
+        function preventDefaults(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropZone.addEventListener(eventName, highlight, false);
+        });
+
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, unhighlight, false);
+        });
+
+        function highlight(e) {
+            dropZone.classList.add('border-blue-500');
+        }
+
+        function unhighlight(e) {
+            dropZone.classList.remove('border-blue-500');
+        }
+
+        dropZone.addEventListener('drop', handleDrop, false);
+
+        function handleDrop(e) {
+            const dt = e.dataTransfer;
+            const file = dt.files[0];
+            
+            if (file && allowed_file(file.name)) {
+                document.getElementById('fileInput').files = dt.files;
+                document.getElementById('fileInput').dispatchEvent(new Event('change'));
+            } else {
+                showError('Invalid file type. Please upload .txt, .pdf, or .docx files only.');
+            }
+        }
+
+        function allowed_file(filename) {
+            return filename.toLowerCase().match(/\.(txt|pdf|docx)$/);
+        }
+
+        // Initialize tooltips for various features
+        const tooltips = {
+            'modelSelect': 'Choose the AI model for content generation',
+            'modeSelect': 'Select how you want to generate content',
+            'optimizeEngagement': 'Enhance content for better engagement',
+            'includeAnalysis': 'Get detailed engagement metrics analysis',
+            'mediaTypeSelect': 'Add relevant media to your content'
+        };
+
+        Object.entries(tooltips).forEach(([elementId, tooltip]) => {
+            const element = document.getElementById(elementId);
+            if (element) {
+                element.title = tooltip;
+            }
+        });
+
+        // Handle initial UI state
+        document.addEventListener('DOMContentLoaded', function() {
+            // Clear any previous inputs/outputs
+            document.getElementById('fileInput').value = '';
+            document.getElementById('topicInput').value = '';
+            document.getElementById('preferencesInput').value = '';
+            
+            // Hide all output sections initially
+            ['styleAnalysis', 'metaPrompt', 'generatedContent', 
+             'engagementAnalysis', 'mediaOutput', 'errorMessage'].forEach(id => {
+                document.getElementById(id).classList.add('hidden');
+            });
+        });
+    </script>
+</body>
+</html>
