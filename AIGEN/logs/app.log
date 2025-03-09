@@ -30,3 +30,1047 @@
 2025-02-05 09:15:31,512 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
 2025-02-05 09:19:40,345 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
 2025-02-05 09:19:42,233 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-06 11:27:44,837 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-06 11:27:49,218 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-08 11:21:37,888 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-08 11:21:40,079 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-25 10:23:50,321 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-02-25 10:23:53,061 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-02 13:26:42,564 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-02 13:26:44,985 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 09:47:59,302 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 09:48:01,467 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 09:50:15,674 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 09:50:17,831 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 11:52:06,359 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 11:52:09,827 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 11:53:51,926 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 11:54:00,588 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-03 11:54:03,195 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-09 10:51:58,864 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-09 10:52:02,606 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:34]
+2025-03-09 10:58:18,637 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 10:59:03,571 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 10:59:16,569 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 10:59:19,884 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:06:29,340 [INFO] app:85 - Application startup - TraceID: startup
+2025-03-09 12:06:32,473 [INFO] app:85 - Application startup - TraceID: startup
+2025-03-09 12:06:47,654 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:06:48,171 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:07:18,259 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:07:18,793 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:12:58,649 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:12:59,107 INFO: Application startup [in C:\Users\MUKESH MUGAN M\AIGEN\app.py:66]
+2025-03-09 12:21:51,878 [INFO] setup_logging:87 - Application startup
+2025-03-09 12:21:51,878 [INFO] setup_logging:87 - Application startup
+2025-03-09 12:21:51,879 [INFO] setup_logging:90 - Environment: development
+2025-03-09 12:21:51,879 [INFO] setup_logging:90 - Environment: development
+2025-03-09 12:21:51,881 [INFO] setup_logging:91 - Gemini API Key configured: True
+2025-03-09 12:21:51,881 [INFO] setup_logging:91 - Gemini API Key configured: True
+2025-03-09 12:21:51,881 [INFO] setup_logging:92 - OpenAI API Key configured: True
+2025-03-09 12:21:51,881 [INFO] setup_logging:92 - OpenAI API Key configured: True
+2025-03-09 12:21:51,882 [INFO] setup_logging:93 - Pexels API Key configured: True
+2025-03-09 12:21:51,882 [INFO] setup_logging:93 - Pexels API Key configured: True
+2025-03-09 12:21:51,901 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:21:51,908 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:21:52,246 [INFO] setup_logging:87 - Application startup
+2025-03-09 12:21:52,246 [INFO] setup_logging:87 - Application startup
+2025-03-09 12:21:52,247 [INFO] setup_logging:90 - Environment: development
+2025-03-09 12:21:52,247 [INFO] setup_logging:90 - Environment: development
+2025-03-09 12:21:52,248 [INFO] setup_logging:91 - Gemini API Key configured: True
+2025-03-09 12:21:52,248 [INFO] setup_logging:91 - Gemini API Key configured: True
+2025-03-09 12:21:52,249 [INFO] setup_logging:92 - OpenAI API Key configured: True
+2025-03-09 12:21:52,249 [INFO] setup_logging:92 - OpenAI API Key configured: True
+2025-03-09 12:21:52,250 [INFO] setup_logging:93 - Pexels API Key configured: True
+2025-03-09 12:21:52,250 [INFO] setup_logging:93 - Pexels API Key configured: True
+2025-03-09 12:21:52,266 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:21:52,272 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:31:11,798 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:31:12,240 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:31:15,967 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:15,967 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:15,969 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:15,969 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:15,970 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:15,970 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:15,971 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:15,971 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:15,971 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:15,971 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:15,995 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:31:16,003 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:31:16,411 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:16,411 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:16,412 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:16,412 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:16,414 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:16,414 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:16,415 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:16,415 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:16,416 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:16,416 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:16,434 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:31:16,438 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:31:29,029 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:29,029 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:29,031 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:29,031 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:29,031 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:29,031 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:29,032 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:29,032 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:29,032 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:29,032 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:29,060 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 12:31:29,062 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 12:31:29,065 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:31:32,275 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:32,275 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:31:32,276 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:32,276 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:31:32,277 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:32,277 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:31:32,278 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:32,278 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:31:32,279 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:32,279 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:31:32,298 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:31:32,303 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:31:33,980 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:31:33] "GET / HTTP/1.1" 200 -
+2025-03-09 12:31:34,436 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:31:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-09 12:31:41,797 [INFO] generate:803 - [de205d6e] Received request to /generate endpoint
+2025-03-09 12:31:41,798 [INFO] generate:831 - [de205d6e] Using model choice: gemini
+2025-03-09 12:31:41,798 [INFO] generate:860 - [de205d6e] Generating platform content for linkedin
+2025-03-09 12:31:41,799 [ERROR] generate:869 - [de205d6e] Content generation failed: 'ContentManager' object has no attribute 'generate_platform_content'
+Traceback (most recent call last):
+  File "C:\Users\MUKESH MUGAN M\AIGEN\app.py", line 861, in generate
+    content = manager.generate_platform_content(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentManager' object has no attribute 'generate_platform_content'
+2025-03-09 12:31:41,803 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:31:41] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-03-09 12:31:54,363 [INFO] generate:803 - [6652c4e5] Received request to /generate endpoint
+2025-03-09 12:31:54,364 [INFO] generate:831 - [6652c4e5] Using model choice: gemini
+2025-03-09 12:31:54,366 [INFO] generate:860 - [6652c4e5] Generating platform content for linkedin
+2025-03-09 12:31:54,366 [ERROR] generate:869 - [6652c4e5] Content generation failed: 'ContentManager' object has no attribute 'generate_platform_content'
+Traceback (most recent call last):
+  File "C:\Users\MUKESH MUGAN M\AIGEN\app.py", line 861, in generate
+    content = manager.generate_platform_content(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentManager' object has no attribute 'generate_platform_content'
+2025-03-09 12:31:54,369 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:31:54] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-03-09 12:32:11,521 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:32:11,884 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:32:11,910 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:32:12,129 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:32:15,207 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:15,207 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:15,208 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:15,208 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:15,210 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:15,210 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:15,211 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:15,211 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:15,212 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:15,212 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:15,234 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:32:15,239 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:32:15,742 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:15,742 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:15,743 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:15,743 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:15,744 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:15,744 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:15,745 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:15,745 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:15,746 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:15,746 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:15,761 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:32:15,766 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:32:16,012 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:16,012 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:32:16,013 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:16,013 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:32:16,015 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:16,015 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:32:16,016 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:16,016 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:32:16,016 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:16,016 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:32:16,033 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:32:16,039 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:32:17,919 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:32:17] "GET / HTTP/1.1" 200 -
+2025-03-09 12:32:21,923 [INFO] generate:803 - [f579f9d9] Received request to /generate endpoint
+2025-03-09 12:32:21,925 [INFO] generate:831 - [f579f9d9] Using model choice: gemini
+2025-03-09 12:32:21,926 [INFO] generate:860 - [f579f9d9] Generating platform content for linkedin
+2025-03-09 12:32:21,927 [ERROR] generate:869 - [f579f9d9] Content generation failed: 'ContentManager' object has no attribute 'generate_platform_content'
+Traceback (most recent call last):
+  File "C:\Users\MUKESH MUGAN M\AIGEN\app.py", line 861, in generate
+    content = manager.generate_platform_content(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentManager' object has no attribute 'generate_platform_content'
+2025-03-09 12:32:21,930 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:32:21] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-03-09 12:32:28,804 [INFO] generate_meta_prompt:950 - Generating meta-prompt for linkedin content about help me to create a post n trying to get job in digital marketing
+2025-03-09 12:32:28,805 [ERROR] generate_meta_prompt:977 - Unexpected error in meta-prompt generation: 'MetaPromptGenerator' object has no attribute 'generate_meta_prompt'
+2025-03-09 12:32:28,806 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:32:28] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 12:36:22,956 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:36:23,456 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:36:23,659 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:36:24,127 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:36:27,572 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:27,572 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:27,576 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:27,576 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:27,577 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:27,577 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:27,578 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:27,578 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:27,579 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:27,579 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:27,599 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:36:27,607 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:36:28,199 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:28,199 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:28,200 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:28,200 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:28,202 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:28,202 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:28,203 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:28,203 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:28,204 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:28,204 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:28,221 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:36:28,227 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:36:28,416 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:28,416 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:28,417 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:28,417 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:28,418 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:28,418 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:28,419 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:28,419 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:28,420 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:28,420 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:28,442 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:36:28,450 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:36:44,335 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:44,335 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:44,336 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:44,336 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:44,337 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:44,337 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:44,338 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:44,338 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:44,339 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:44,339 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:44,365 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 12:36:44,367 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 12:36:44,370 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:36:48,105 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:48,105 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:36:48,106 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:48,106 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:36:48,106 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:48,106 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:36:48,107 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:48,107 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:36:48,109 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:48,109 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:36:48,127 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:36:48,131 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:38:21,759 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:38:22,133 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:38:25,284 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:25,284 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:25,285 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:25,285 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:25,287 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:25,287 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:25,288 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:25,288 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:25,289 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:25,289 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:25,306 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:38:25,311 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:38:41,597 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:41,597 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:41,597 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:41,597 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:41,598 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:41,598 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:41,599 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:41,599 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:41,599 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:41,599 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:41,624 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 12:38:41,626 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 12:38:41,629 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:38:45,055 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:45,055 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:38:45,057 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:45,057 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:38:45,058 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:45,058 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:38:45,060 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:45,060 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:38:45,062 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:45,062 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:38:45,084 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:38:45,092 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:38:45,270 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:38:45] "GET / HTTP/1.1" 200 -
+2025-03-09 12:38:45,274 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:38:45] "GET / HTTP/1.1" 200 -
+2025-03-09 12:38:45,759 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:38:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-09 12:38:45,766 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:38:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-09 12:38:52,728 [INFO] generate:763 - [1523ea6d] Received request to /generate endpoint
+2025-03-09 12:38:52,729 [INFO] generate:791 - [1523ea6d] Using model choice: gemini
+2025-03-09 12:38:52,730 [INFO] generate:820 - [1523ea6d] Generating platform content for linkedin
+2025-03-09 12:38:52,730 [ERROR] generate:829 - [1523ea6d] Content generation failed: 'ContentManager' object has no attribute 'generate_platform_content'
+Traceback (most recent call last):
+  File "C:\Users\MUKESH MUGAN M\AIGEN\app.py", line 821, in generate
+    content = manager.generate_platform_content(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentManager' object has no attribute 'generate_platform_content'
+2025-03-09 12:38:52,735 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:38:52] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-03-09 12:43:55,087 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:43:55,463 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:43:59,096 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:43:59,096 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:43:59,097 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:43:59,097 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:43:59,098 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:43:59,098 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:43:59,099 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:43:59,099 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:43:59,100 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:43:59,100 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:43:59,117 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:43:59,122 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:43:59,686 [INFO] _log:97 - 127.0.0.1 - - [09/Mar/2025 12:43:59] "GET / HTTP/1.1" 200 -
+2025-03-09 12:44:13,588 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:44:13,588 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:44:13,589 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:44:13,589 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:44:13,592 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:44:13,592 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:44:13,593 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:44:13,593 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:44:13,594 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:44:13,594 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:44:13,619 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 12:44:13,622 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 12:44:13,624 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:44:17,109 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:44:17,109 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:44:17,110 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:44:17,110 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:44:17,111 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:44:17,111 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:44:17,112 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:44:17,112 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:44:17,113 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:44:17,113 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:44:17,128 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:44:17,134 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:44:22,427 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:44:22] "GET / HTTP/1.1" 200 -
+2025-03-09 12:44:30,166 [INFO] generate:763 - [5cdf0ef3] Received request to /generate endpoint
+2025-03-09 12:44:30,167 [INFO] generate:791 - [5cdf0ef3] Using model choice: gemini
+2025-03-09 12:44:30,168 [INFO] generate:820 - [5cdf0ef3] Generating platform content for linkedin
+2025-03-09 12:44:30,169 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:44:30,728 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:44:30,732 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:44:35,151 [INFO] generate_content:205 - Gemini content generation successful in 4.98s
+2025-03-09 12:44:35,152 [INFO] generate:836 - [5cdf0ef3] Content generated in 4.98s
+2025-03-09 12:44:35,153 [INFO] generate:867 - [5cdf0ef3] Request completed in 4.99s
+2025-03-09 12:44:35,154 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:44:35] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:44:41,874 [INFO] generate:763 - [7d525e9c] Received request to /generate endpoint
+2025-03-09 12:44:41,875 [INFO] generate:791 - [7d525e9c] Using model choice: gemini
+2025-03-09 12:44:41,876 [INFO] generate:820 - [7d525e9c] Generating platform content for twitter
+2025-03-09 12:44:41,877 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:44:42,230 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:44:42,232 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:44:43,824 [INFO] generate_content:205 - Gemini content generation successful in 1.95s
+2025-03-09 12:44:43,825 [INFO] generate:836 - [7d525e9c] Content generated in 1.95s
+2025-03-09 12:44:43,826 [INFO] generate:867 - [7d525e9c] Request completed in 1.95s
+2025-03-09 12:44:43,827 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:44:43] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:44:48,696 [INFO] generate:763 - [8ab0348b] Received request to /generate endpoint
+2025-03-09 12:44:48,697 [INFO] generate:791 - [8ab0348b] Using model choice: gemini
+2025-03-09 12:44:48,698 [INFO] generate:820 - [8ab0348b] Generating platform content for instagram
+2025-03-09 12:44:48,699 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:44:49,047 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:44:49,050 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:44:53,389 [INFO] generate_content:205 - Gemini content generation successful in 4.69s
+2025-03-09 12:44:53,390 [INFO] generate:836 - [8ab0348b] Content generated in 4.69s
+2025-03-09 12:44:53,391 [INFO] generate:867 - [8ab0348b] Request completed in 4.69s
+2025-03-09 12:44:53,391 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:44:53] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:45:03,131 [ERROR] upload_file:756 - Upload error: name 'extract_text_from_file' is not defined
+2025-03-09 12:45:03,133 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:45:03] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-03-09 12:45:06,896 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:45:06] "GET / HTTP/1.1" 200 -
+2025-03-09 12:45:26,201 [ERROR] upload_file:756 - Upload error: name 'extract_text_from_file' is not defined
+2025-03-09 12:45:26,202 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:45:26] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-03-09 12:45:35,864 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:45:36,881 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 12:45:37,308 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:45:38,234 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:45:40,319 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:40,319 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:40,320 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:40,320 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:40,320 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:40,320 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:40,322 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:40,322 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:40,322 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:40,322 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:40,337 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:45:40,343 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:45:41,057 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:41,057 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:41,059 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:41,059 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:41,060 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:41,060 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:41,061 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:41,061 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:41,061 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:41,061 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:41,073 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:45:41,076 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:45:44,405 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:44,405 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:44,406 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:44,406 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:44,407 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:44,407 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:44,407 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:44,407 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:44,408 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:44,408 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:44,431 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 12:45:44,433 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 12:45:44,436 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 12:45:47,132 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:47,132 [INFO] setup_logging:89 - Application startup
+2025-03-09 12:45:47,134 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:47,134 [INFO] setup_logging:92 - Environment: development
+2025-03-09 12:45:47,135 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:47,135 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 12:45:47,135 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:47,135 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 12:45:47,136 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:47,136 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 12:45:47,148 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 12:45:47,158 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 12:45:47,285 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:45:47] "GET / HTTP/1.1" 200 -
+2025-03-09 12:45:56,737 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:45:57,281 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:45:57,283 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:09,901 [INFO] generate_content:205 - Gemini content generation successful in 13.16s
+2025-03-09 12:46:09,902 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:46:09] "POST /upload HTTP/1.1" 200 -
+2025-03-09 12:46:12,959 [INFO] generate:763 - [4d6cc277] Received request to /generate endpoint
+2025-03-09 12:46:12,961 [INFO] generate:791 - [4d6cc277] Using model choice: gemini
+2025-03-09 12:46:12,962 [INFO] generate:805 - [4d6cc277] Generating content with strict style matching
+2025-03-09 12:46:12,963 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:46:13,319 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:46:13,323 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:21,941 [INFO] generate_content:205 - Gemini content generation successful in 8.98s
+2025-03-09 12:46:21,942 [INFO] generate_style_matched_content:472 - Style analysis complete. Proceeding with style matching.
+2025-03-09 12:46:21,942 [INFO] generate_style_matched_content:476 - Style matching attempt 1/3
+2025-03-09 12:46:21,943 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:46:22,296 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:46:22,298 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:26,392 [INFO] generate_content:205 - Gemini content generation successful in 4.45s
+2025-03-09 12:46:26,393 [INFO] validate_content:418 - Starting content validation
+2025-03-09 12:46:26,394 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:46:26,743 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:46:26,746 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:27,143 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:46:27,144 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:46:27,579 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:27,581 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:27,583 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:27,584 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:46:29,586 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:46:29,872 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:29,874 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:29,875 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:29,877 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:46:33,878 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:46:34,161 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:34,163 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:34,164 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:34,166 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:46:34,166 [ERROR] validate_content:451 - Validation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:34,168 [INFO] generate_style_matched_content:514 - Attempt 1 validation: confidence=0.00, is_valid=False
+2025-03-09 12:46:34,169 [INFO] generate_style_matched_content:476 - Style matching attempt 2/3
+2025-03-09 12:46:34,170 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:46:34,522 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:46:34,525 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:38,528 [INFO] generate_content:205 - Gemini content generation successful in 4.36s
+2025-03-09 12:46:38,529 [INFO] validate_content:418 - Starting content validation
+2025-03-09 12:46:38,530 [INFO] generate_content:148 - Content generation attempt 1/3 with openai
+2025-03-09 12:46:38,816 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:38,818 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:38,820 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:38,821 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:46:40,823 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:46:41,112 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:41,113 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:41,115 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:41,117 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:46:45,118 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:46:45,406 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:45,407 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:45,408 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:45,409 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:46:45,410 [ERROR] validate_content:451 - Validation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:45,411 [INFO] generate_style_matched_content:514 - Attempt 2 validation: confidence=0.00, is_valid=False
+2025-03-09 12:46:45,411 [INFO] generate_style_matched_content:476 - Style matching attempt 3/3
+2025-03-09 12:46:45,412 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:46:45,761 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:46:45,764 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:46:51,041 [INFO] generate_content:205 - Gemini content generation successful in 5.63s
+2025-03-09 12:46:51,043 [INFO] validate_content:418 - Starting content validation
+2025-03-09 12:46:51,043 [INFO] generate_content:148 - Content generation attempt 1/3 with openai
+2025-03-09 12:46:51,364 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:51,366 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:51,367 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:51,368 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:46:53,369 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:46:53,641 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:53,643 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:53,645 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:53,647 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:46:57,648 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:46:57,922 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:46:57,923 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:57,925 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:57,927 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:46:57,928 [ERROR] validate_content:451 - Validation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:46:57,929 [INFO] generate_style_matched_content:514 - Attempt 3 validation: confidence=0.00, is_valid=False
+2025-03-09 12:46:57,930 [WARNING] generate_style_matched_content:537 - Style matching exhausted all 3 attempts. Using best match with confidence 0.00
+2025-03-09 12:46:57,931 [INFO] generate:836 - [4d6cc277] Content generated in 44.97s
+2025-03-09 12:46:57,932 [INFO] generate:867 - [4d6cc277] Request completed in 44.97s
+2025-03-09 12:46:57,933 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:46:57] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:47:06,910 [INFO] generate:763 - [a2792dc5] Received request to /generate endpoint
+2025-03-09 12:47:06,912 [INFO] generate:791 - [a2792dc5] Using model choice: gemini
+2025-03-09 12:47:06,912 [INFO] generate:805 - [a2792dc5] Generating content with strict style matching
+2025-03-09 12:47:06,913 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:47:07,264 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:47:07,266 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:47:19,053 [INFO] generate_content:205 - Gemini content generation successful in 12.14s
+2025-03-09 12:47:19,053 [INFO] generate_style_matched_content:472 - Style analysis complete. Proceeding with style matching.
+2025-03-09 12:47:19,054 [INFO] generate_style_matched_content:476 - Style matching attempt 1/3
+2025-03-09 12:47:19,055 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:47:19,407 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:47:19,410 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:47:19,843 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:47:19,843 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:47:20,187 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:20,188 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:20,190 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:20,191 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:47:22,193 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:47:22,509 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:22,510 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:22,511 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:22,512 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:47:26,513 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:47:26,802 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:26,804 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:26,805 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:26,806 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:47:26,808 [ERROR] generate_style_matched_content:533 - Error in style matching attempt 1: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:26,809 [INFO] generate_style_matched_content:476 - Style matching attempt 2/3
+2025-03-09 12:47:26,810 [INFO] generate_content:148 - Content generation attempt 1/3 with openai
+2025-03-09 12:47:27,101 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:27,102 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:27,103 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:27,104 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:47:29,105 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:47:29,397 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:29,399 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:29,402 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:29,403 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:47:33,405 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:47:33,700 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:33,702 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:33,703 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:33,705 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:47:33,706 [ERROR] generate_style_matched_content:533 - Error in style matching attempt 2: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:33,707 [INFO] generate_style_matched_content:476 - Style matching attempt 3/3
+2025-03-09 12:47:33,708 [INFO] generate_content:148 - Content generation attempt 1/3 with openai
+2025-03-09 12:47:34,005 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:34,007 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:34,008 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:34,009 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:47:36,010 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:47:36,305 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:36,306 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:36,308 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:36,309 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:47:40,310 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:47:40,600 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:47:40,602 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:40,603 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:40,605 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:47:40,606 [ERROR] generate_style_matched_content:533 - Error in style matching attempt 3: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:47:40,607 [WARNING] generate_style_matched_content:537 - Style matching exhausted all 3 attempts. Using best match with confidence 0.00
+2025-03-09 12:47:40,607 [INFO] generate:836 - [a2792dc5] Content generated in 33.69s
+2025-03-09 12:47:40,608 [INFO] generate:867 - [a2792dc5] Request completed in 33.70s
+2025-03-09 12:47:40,609 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:47:40] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:49:07,843 [INFO] generate:763 - [b47863b5] Received request to /generate endpoint
+2025-03-09 12:49:07,844 [INFO] generate:791 - [b47863b5] Using model choice: gemini
+2025-03-09 12:49:07,846 [INFO] generate:805 - [b47863b5] Generating content with strict style matching
+2025-03-09 12:49:07,846 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:49:08,228 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:49:08,231 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:49:18,528 [INFO] generate_content:205 - Gemini content generation successful in 10.68s
+2025-03-09 12:49:18,529 [INFO] generate_style_matched_content:472 - Style analysis complete. Proceeding with style matching.
+2025-03-09 12:49:18,531 [INFO] generate_style_matched_content:476 - Style matching attempt 1/3
+2025-03-09 12:49:18,531 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:49:18,907 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:49:18,910 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:49:25,083 [INFO] generate_content:205 - Gemini content generation successful in 6.55s
+2025-03-09 12:49:25,084 [INFO] validate_content:418 - Starting content validation
+2025-03-09 12:49:25,085 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:49:25,451 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:49:25,454 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:49:36,201 [INFO] generate_content:205 - Gemini content generation successful in 11.12s
+2025-03-09 12:49:36,202 [INFO] validate_content:430 - Extracted confidence score: 0.90
+2025-03-09 12:49:36,203 [INFO] generate_style_matched_content:514 - Attempt 1 validation: confidence=0.90, is_valid=True
+2025-03-09 12:49:36,204 [INFO] generate:836 - [b47863b5] Content generated in 28.36s
+2025-03-09 12:49:36,205 [INFO] generate:867 - [b47863b5] Request completed in 28.36s
+2025-03-09 12:49:36,206 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:49:36] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:49:58,999 [INFO] generate:763 - [1949f617] Received request to /generate endpoint
+2025-03-09 12:49:59,000 [INFO] generate:791 - [1949f617] Using model choice: gemini
+2025-03-09 12:49:59,002 [INFO] generate:805 - [1949f617] Generating content with strict style matching
+2025-03-09 12:49:59,004 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:49:59,377 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:49:59,379 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:50:10,023 [INFO] generate_content:205 - Gemini content generation successful in 11.01s
+2025-03-09 12:50:10,023 [INFO] generate_style_matched_content:472 - Style analysis complete. Proceeding with style matching.
+2025-03-09 12:50:10,024 [INFO] generate_style_matched_content:476 - Style matching attempt 1/3
+2025-03-09 12:50:10,024 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:50:10,391 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:50:10,393 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:50:15,847 [INFO] generate_content:205 - Gemini content generation successful in 5.82s
+2025-03-09 12:50:15,848 [INFO] validate_content:418 - Starting content validation
+2025-03-09 12:50:15,849 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:50:16,217 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:50:16,220 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:50:16,618 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:50:16,619 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:50:16,944 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:16,945 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:16,946 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:16,948 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:50:18,949 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:50:19,227 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:19,229 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:19,231 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:19,232 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:50:23,233 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:50:23,517 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:23,518 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:23,520 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:23,521 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:50:23,522 [ERROR] validate_content:451 - Validation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:23,523 [INFO] generate_style_matched_content:514 - Attempt 1 validation: confidence=0.00, is_valid=False
+2025-03-09 12:50:23,524 [INFO] generate_style_matched_content:476 - Style matching attempt 2/3
+2025-03-09 12:50:23,525 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:50:23,890 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:50:23,893 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:50:24,308 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:50:24,309 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:50:24,587 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:24,589 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:24,589 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:24,591 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:50:26,592 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:50:26,874 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:26,876 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:26,878 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:26,879 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:50:30,880 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:50:31,166 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:31,168 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:31,169 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:31,170 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:50:31,171 [ERROR] generate_style_matched_content:533 - Error in style matching attempt 2: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:31,173 [INFO] generate_style_matched_content:476 - Style matching attempt 3/3
+2025-03-09 12:50:31,173 [INFO] generate_content:148 - Content generation attempt 1/3 with openai
+2025-03-09 12:50:31,456 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:31,457 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:31,459 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:31,460 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:50:33,461 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:50:33,770 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:33,771 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:33,773 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:33,774 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:50:37,776 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:50:38,061 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:38,063 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:38,064 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:38,065 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:50:38,065 [ERROR] generate_style_matched_content:533 - Error in style matching attempt 3: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:38,067 [WARNING] generate_style_matched_content:537 - Style matching exhausted all 3 attempts. Using best match with confidence 0.00
+2025-03-09 12:50:38,068 [INFO] generate:836 - [1949f617] Content generated in 39.07s
+2025-03-09 12:50:38,069 [INFO] generate:867 - [1949f617] Request completed in 39.07s
+2025-03-09 12:50:38,069 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:50:38] "POST /generate HTTP/1.1" 200 -
+2025-03-09 12:50:52,287 [INFO] generate_meta_prompt:910 - Generating meta-prompt for instagram content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:50:52,288 [INFO] generate_meta_prompt:339 - Generating meta-prompt for instagram about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:50:52,288 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:50:52,655 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:50:52,657 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:50:53,018 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:50:53,019 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:50:53,333 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:53,334 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:53,336 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:53,337 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:50:55,338 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:50:55,613 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:55,615 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:55,616 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:55,618 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:50:59,619 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:50:59,897 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:50:59,899 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:59,901 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:59,903 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:50:59,904 [ERROR] generate_meta_prompt:364 - Meta prompt generation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:59,905 [ERROR] generate_meta_prompt:917 - Meta prompt generation failed: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:50:59,907 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:50:59] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 12:51:05,356 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:51:05] "GET / HTTP/1.1" 200 -
+2025-03-09 12:51:14,950 [INFO] generate_meta_prompt:910 - Generating meta-prompt for linkedin content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:51:14,951 [INFO] generate_meta_prompt:339 - Generating meta-prompt for linkedin about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:51:14,952 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:51:15,319 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:51:15,323 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:51:15,688 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:51:15,689 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:51:16,063 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:51:16,064 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:16,066 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:16,068 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:51:18,069 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:51:18,348 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:51:18,349 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:18,351 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:18,352 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:51:22,353 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:51:22,623 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:51:22,625 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:22,626 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:22,628 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:51:22,629 [ERROR] generate_meta_prompt:364 - Meta prompt generation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:22,631 [ERROR] generate_meta_prompt:917 - Meta prompt generation failed: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:51:22,632 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:51:22] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 12:52:14,323 [INFO] generate_meta_prompt:910 - Generating meta-prompt for twitter content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:52:14,325 [INFO] generate_meta_prompt:339 - Generating meta-prompt for twitter about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 12:52:14,325 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 12:52:14,691 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 12:52:14,694 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 12:52:15,057 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 12:52:15,057 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 12:52:15,368 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:52:15,370 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:15,371 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:15,373 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 12:52:17,374 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 12:52:17,655 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:52:17,656 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:17,658 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:17,659 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 12:52:21,661 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 12:52:21,950 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 12:52:21,951 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:21,953 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:21,954 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 12:52:21,955 [ERROR] generate_meta_prompt:364 - Meta prompt generation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:21,956 [ERROR] generate_meta_prompt:917 - Meta prompt generation failed: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 12:52:21,958 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 12:52:21] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 14:25:31,826 [INFO] generate_meta_prompt:910 - Generating meta-prompt for linkedin content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:25:31,830 [INFO] generate_meta_prompt:339 - Generating meta-prompt for linkedin about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:25:31,833 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:25:33,928 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:25:33,932 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:25:49,324 [INFO] generate_content:205 - Gemini content generation successful in 17.49s
+2025-03-09 14:25:49,326 [INFO] generate_meta_prompt:344 - Meta-prompt generation successful, now generating content
+2025-03-09 14:25:49,328 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:25:49,720 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:25:49,728 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:25:56,961 [INFO] generate_content:205 - Gemini content generation successful in 7.63s
+2025-03-09 14:25:56,963 [INFO] generate_meta_prompt:352 - Final content generation successful
+2025-03-09 14:25:56,964 [ERROR] generate_meta_prompt:937 - Unexpected error in meta-prompt generation: 'MetaPromptGenerator' object has no attribute 'validate_output'
+2025-03-09 14:25:56,965 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:25:56] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 14:30:54,772 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:30:54,851 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:30:54,889 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:30:55,604 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:30:55,628 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:30:57,531 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:31:02,271 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:02,271 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:02,273 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:02,273 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:02,275 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:02,275 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:02,276 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:02,276 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:02,278 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:02,278 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:02,284 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:02,284 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:02,288 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:02,288 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:02,290 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:02,290 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:02,293 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:02,293 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:02,294 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:02,294 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:02,309 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:31:02,320 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:31:02,323 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:31:02,337 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:31:03,817 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:03,817 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:31:03,820 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:03,820 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:31:03,822 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:03,822 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:31:03,827 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:03,827 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:31:03,829 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:03,829 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:31:03,865 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:31:03,876 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:33:49,659 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:33:49,659 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:33:49,661 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:33:49,661 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:33:49,662 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:33:49,662 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:33:49,663 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:33:49,663 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:33:49,664 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:33:49,664 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:33:49,708 [INFO] _log:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-03-09 14:33:49,711 [INFO] _log:97 - [33mPress CTRL+C to quit[0m
+2025-03-09 14:33:49,715 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:33:55,108 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:33:55,108 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:33:55,111 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:33:55,111 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:33:55,113 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:33:55,113 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:33:55,114 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:33:55,114 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:33:55,116 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:33:55,116 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:33:55,192 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:33:55,208 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:33:55,470 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:33:55] "GET / HTTP/1.1" 200 -
+2025-03-09 14:34:25,576 [INFO] generate_meta_prompt:978 - Generating meta-prompt for linkedin content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:34:25,578 [INFO] generate_meta_prompt:339 - Generating meta-prompt for linkedin about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:34:25,579 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:34:27,246 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:34:27,255 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:34:42,941 [INFO] generate_content:205 - Gemini content generation successful in 17.36s
+2025-03-09 14:34:42,943 [INFO] generate_meta_prompt:344 - Meta-prompt generation successful, now generating content
+2025-03-09 14:34:42,944 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:34:43,307 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:34:43,312 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:34:49,548 [INFO] generate_content:205 - Gemini content generation successful in 6.60s
+2025-03-09 14:34:49,550 [INFO] generate_meta_prompt:352 - Final content generation successful
+2025-03-09 14:34:49,551 [INFO] validate_output:384 - Validating content for linkedin
+2025-03-09 14:34:49,552 [INFO] validate_output:426 - Content validation successful for linkedin
+2025-03-09 14:34:49,555 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:34:49] "POST /meta-prompt HTTP/1.1" 200 -
+2025-03-09 14:34:57,727 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:34:57] "GET / HTTP/1.1" 200 -
+2025-03-09 14:35:14,282 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:35:14] "GET / HTTP/1.1" 200 -
+2025-03-09 14:35:30,437 [INFO] generate_meta_prompt:978 - Generating meta-prompt for twitter content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:35:30,439 [INFO] generate_meta_prompt:339 - Generating meta-prompt for twitter about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:35:30,440 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:35:30,821 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:35:30,826 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:35:44,129 [INFO] generate_content:205 - Gemini content generation successful in 13.69s
+2025-03-09 14:35:44,130 [INFO] generate_meta_prompt:344 - Meta-prompt generation successful, now generating content
+2025-03-09 14:35:44,132 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:35:44,443 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:35:44,448 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:35:46,178 [INFO] generate_content:205 - Gemini content generation successful in 2.04s
+2025-03-09 14:35:46,180 [INFO] generate_meta_prompt:352 - Final content generation successful
+2025-03-09 14:35:46,183 [INFO] validate_output:384 - Validating content for twitter
+2025-03-09 14:35:46,185 [INFO] validate_output:426 - Content validation successful for twitter
+2025-03-09 14:35:46,188 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:35:46] "POST /meta-prompt HTTP/1.1" 200 -
+2025-03-09 14:35:58,008 [INFO] generate_meta_prompt:978 - Generating meta-prompt for instagram content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:35:58,009 [INFO] generate_meta_prompt:339 - Generating meta-prompt for instagram about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:35:58,011 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:35:58,370 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:35:58,378 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:36:14,000 [INFO] generate_content:205 - Gemini content generation successful in 15.99s
+2025-03-09 14:36:14,002 [INFO] generate_meta_prompt:344 - Meta-prompt generation successful, now generating content
+2025-03-09 14:36:14,003 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:36:14,342 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:36:14,348 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:36:14,810 [WARNING] generate_content:210 - Gemini error: 429 Resource has been exhausted (e.g. check quota).
+2025-03-09 14:36:14,812 [INFO] generate_content:213 - Falling back to OpenAI
+2025-03-09 14:36:16,079 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 14:36:16,083 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:16,086 [ERROR] generate_content:252 - Content generation attempt 1 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:16,089 [INFO] generate_content:257 - Retrying in 2 seconds...
+2025-03-09 14:36:18,091 [INFO] generate_content:148 - Content generation attempt 2/3 with openai
+2025-03-09 14:36:18,432 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 14:36:18,435 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:18,437 [ERROR] generate_content:252 - Content generation attempt 2 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:18,440 [INFO] generate_content:257 - Retrying in 4 seconds...
+2025-03-09 14:36:22,442 [INFO] generate_content:148 - Content generation attempt 3/3 with openai
+2025-03-09 14:36:22,758 [INFO] _send_single_request:1025 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-09 14:36:22,761 [ERROR] generate_content:243 - OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:22,764 [ERROR] generate_content:252 - Content generation attempt 3 failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:22,767 [ERROR] generate_content:260 - All 3 content generation attempts failed
+2025-03-09 14:36:22,768 [ERROR] generate_meta_prompt:364 - Meta prompt generation error: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:22,771 [ERROR] generate_meta_prompt:985 - Meta prompt generation failed: Failed to generate content after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************F24A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-03-09 14:36:22,774 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:36:22] "[35m[1mPOST /meta-prompt HTTP/1.1[0m" 500 -
+2025-03-09 14:36:25,869 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:36:25] "GET / HTTP/1.1" 200 -
+2025-03-09 14:36:35,162 [INFO] generate_meta_prompt:978 - Generating meta-prompt for instagram content about help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:36:35,163 [INFO] generate_meta_prompt:339 - Generating meta-prompt for instagram about: help me to create a post i'm trying to get job in digital marketing
+2025-03-09 14:36:35,165 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:36:35,539 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:36:35,545 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:36:52,227 [INFO] generate_content:205 - Gemini content generation successful in 17.06s
+2025-03-09 14:36:52,229 [INFO] generate_meta_prompt:344 - Meta-prompt generation successful, now generating content
+2025-03-09 14:36:52,231 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:36:52,640 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:36:52,647 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:36:57,037 [INFO] generate_content:205 - Gemini content generation successful in 4.80s
+2025-03-09 14:36:57,038 [INFO] generate_meta_prompt:352 - Final content generation successful
+2025-03-09 14:36:57,040 [INFO] validate_output:384 - Validating content for instagram
+2025-03-09 14:36:57,042 [INFO] validate_output:426 - Content validation successful for instagram
+2025-03-09 14:36:57,044 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:36:57] "POST /meta-prompt HTTP/1.1" 200 -
+2025-03-09 14:37:50,160 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:37:50,459 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:37:50,463 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:38:04,160 [INFO] generate_content:205 - Gemini content generation successful in 14.00s
+2025-03-09 14:38:04,163 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:04] "POST /upload HTTP/1.1" 200 -
+2025-03-09 14:38:14,939 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:14] "GET / HTTP/1.1" 200 -
+2025-03-09 14:38:24,352 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:38:24,698 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:38:24,703 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:38:29,849 [INFO] generate:831 - [993fa7c7] Received request to /generate endpoint
+2025-03-09 14:38:29,851 [INFO] generate:859 - [993fa7c7] Using model choice: gemini
+2025-03-09 14:38:29,854 [INFO] generate:888 - [993fa7c7] Generating platform content for linkedin
+2025-03-09 14:38:29,856 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:38:30,226 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:38:30,231 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:38:34,935 [INFO] generate_content:205 - Gemini content generation successful in 5.08s
+2025-03-09 14:38:34,937 [INFO] generate:904 - [993fa7c7] Content generated in 5.08s
+2025-03-09 14:38:34,939 [INFO] generate:935 - [993fa7c7] Request completed in 5.08s
+2025-03-09 14:38:34,941 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:34] "POST /generate HTTP/1.1" 200 -
+2025-03-09 14:38:36,887 [INFO] generate_content:205 - Gemini content generation successful in 12.53s
+2025-03-09 14:38:36,890 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:36] "POST /upload HTTP/1.1" 200 -
+2025-03-09 14:38:49,211 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:49] "GET / HTTP/1.1" 200 -
+2025-03-09 14:38:50,067 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:38:50] "GET / HTTP/1.1" 200 -
+2025-03-09 14:39:03,926 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:39:04,332 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:39:04,336 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:39:16,609 [INFO] generate_content:205 - Gemini content generation successful in 12.68s
+2025-03-09 14:39:16,611 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:39:16] "POST /upload HTTP/1.1" 200 -
+2025-03-09 14:39:32,462 [INFO] generate:831 - [30844378] Received request to /generate endpoint
+2025-03-09 14:39:32,464 [INFO] generate:859 - [30844378] Using model choice: gemini
+2025-03-09 14:39:32,466 [INFO] generate:873 - [30844378] Generating content with strict style matching
+2025-03-09 14:39:32,466 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:39:32,767 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:39:32,773 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:39:43,849 [INFO] generate_content:205 - Gemini content generation successful in 11.38s
+2025-03-09 14:39:43,852 [INFO] generate_style_matched_content:540 - Style analysis complete. Proceeding with style matching.
+2025-03-09 14:39:43,854 [INFO] generate_style_matched_content:544 - Style matching attempt 1/3
+2025-03-09 14:39:43,855 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:39:44,267 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:39:44,277 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:39:49,589 [INFO] generate_content:205 - Gemini content generation successful in 5.73s
+2025-03-09 14:39:49,591 [INFO] validate_content:486 - Starting content validation
+2025-03-09 14:39:49,593 [INFO] generate_content:148 - Content generation attempt 1/3 with gemini
+2025-03-09 14:39:49,899 [INFO] generate_content:161 - Available Gemini models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-09 14:39:49,904 [INFO] generate_content:179 - Using Gemini model: models/gemini-1.5-pro-latest
+2025-03-09 14:40:02,085 [INFO] generate_content:205 - Gemini content generation successful in 12.49s
+2025-03-09 14:40:02,098 [INFO] validate_content:498 - Extracted confidence score: 0.90
+2025-03-09 14:40:02,101 [INFO] generate_style_matched_content:582 - Attempt 1 validation: confidence=0.90, is_valid=True
+2025-03-09 14:40:02,102 [INFO] generate:904 - [30844378] Content generated in 29.64s
+2025-03-09 14:40:02,105 [INFO] generate:935 - [30844378] Request completed in 29.64s
+2025-03-09 14:40:02,107 [INFO] _log:97 - 192.168.1.7 - - [09/Mar/2025 14:40:02] "POST /generate HTTP/1.1" 200 -
+2025-03-09 14:42:32,766 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:42:32,798 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:42:32,812 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:42:32,828 [INFO] _log:97 -  * Detected change in 'C:\\Users\\MUKESH MUGAN M\\AIGEN\\app.py', reloading
+2025-03-09 14:42:33,421 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:42:33,466 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:42:33,466 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:42:35,505 [INFO] _log:97 -  * Restarting with stat
+2025-03-09 14:42:39,848 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,848 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,851 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,851 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,853 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,853 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,854 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,854 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,861 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,862 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,862 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,861 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,867 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,867 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,869 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,869 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,871 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,871 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,873 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,873 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,894 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:42:39,894 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,894 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:39,897 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,897 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:39,898 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,898 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:39,902 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,906 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:42:39,907 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:42:39,902 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:39,909 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,909 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:39,920 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:42:39,942 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:42:39,958 [INFO] _log:97 -  * Debugger PIN: 390-397-017
+2025-03-09 14:42:40,978 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:40,978 [INFO] setup_logging:89 - Application startup
+2025-03-09 14:42:40,980 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:40,980 [INFO] setup_logging:92 - Environment: development
+2025-03-09 14:42:40,981 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:40,981 [INFO] setup_logging:93 - Gemini API Key configured: True
+2025-03-09 14:42:40,983 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:40,983 [INFO] setup_logging:94 - OpenAI API Key configured: True
+2025-03-09 14:42:40,984 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:40,984 [INFO] setup_logging:95 - Pexels API Key configured: True
+2025-03-09 14:42:41,007 [WARNING] _log:97 -  * Debugger is active!
+2025-03-09 14:42:41,015 [INFO] _log:97 -  * Debugger PIN: 390-397-017
